@@ -1,0 +1,31 @@
+======================================================================
+PROJE ADI: AquaTrace
+YARIŞMA: NASA Space Apps Challenge 2026
+======================================================================
+
+1. PROJENİN AMACI VE PROBLEM TANIMI:
+----------------------------------------------------------------------
+Konya Kapalı Havzası başta olmak üzere kuraklık ve yeraltı su kaynaklarının 
+tükenmesi, tarımsal üretimi ve ekosistemi tehdit eden kritik bir çevresel 
+sorundur. AquaTrace, bu soruna karşı yeraltı su stresini ve zemin deformasyonunu 
+uydu verileriyle izlemek amacıyla geliştirilmiş akıllı bir takip sistemidir.
+
+2. KULLANILAN NASA / ESA UYDU VERİLERİ:
+----------------------------------------------------------------------
+- ESA Sentinel-1 SAR (Sentetik Açıklıklı Radar) verileri
+- NASA-ISRO NISAR misyonu hazırlık verileri ve yer yüzeyi deformasyon metrikleri
+- ASF (Alaska Satellite Facility) API entegrasyonu ile otomatik veri çekme altyapısı
+
+3. TEKNOLOJİ YAZILIM YIĞINI (TECH STACK):
+----------------------------------------------------------------------
+- Programlama Dili: Python
+- Arayüz / Web Çerçevesi: Streamlit
+- Veri Analizi ve İşleme: Pandas, NumPy
+- Coğrafi Veri / Görselleştirme: Harita ve grafik kütüphaneleri
+
+4. PROJENİN ÖNE ÇIKAN ÖZELLİKLERİ:
+----------------------------------------------------------------------
+- Bölgesel zemin çökme ve yeraltı suyu değişim trendlerinin analizi.
+- Kullanıcı dostu, sade ve hızlı web arayüzü.
+- Bilimsel verileri anlaşılır grafiklere ve harita katmanlarına dönüştürme.
+-
