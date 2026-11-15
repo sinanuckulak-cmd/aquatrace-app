@@ -1,0 +1,13 @@
+Station_ID,Location,District,Lat,Lon,Subsidence_cm_yr,GW_Drop_m_yr,Sinkhole_Count,SAR_Coherence,Acquisition_Period,Risk
+S1-KNY-01,Karapınar - İnoba & Seyit Hacı Yaylası,Karapınar,37.7167,33.5500,-6.8,-1.55,340,0.86,2021-2026,Kritik
+S1-KNY-02,Karapınar - Kızören Obruğu Çevresi,Karapınar,37.8658,33.1936,-6.2,-1.48,185,0.84,2021-2026,Kritik
+S1-KNY-03,Karapınar - Çıralı & Meyil Obruk Kuşağı,Karapınar,37.9814,33.3422,-5.9,-1.42,155,0.83,2021-2026,Kritik
+S1-KNY-04,Altınekin - Akıncılar Sulama Havzası,Altınekin,38.3069,32.8694,-5.6,-1.38,110,0.82,2021-2026,Kritik
+S1-KNY-05,Çumra - Alibeyhüyüğü Tarım Bölgesi,Çumra,37.5731,32.7744,-4.2,-1.20,45,0.76,2021-2026,Yüksek
+S1-KNY-06,Karatay - İsmil & Ovakavağı Ovası,Karatay,37.7289,32.9842,-3.8,-1.15,32,0.79,2021-2026,Yüksek
+S1-KNY-07,Ereğli - Akgöl Sulak Alan Sınırı,Ereğli,37.5133,34.0467,-3.4,-1.05,15,0.78,2021-2026,Yüksek
+S1-KNY-08,Emirgazi - Kuzey Karapınar Sınırı,Emirgazi,37.9019,33.8372,-3.1,-0.98,19,0.85,2021-2026,Yüksek
+S1-KNY-09,Cihanbeyli - Gölyazı & Tuz Gölü Batısı,Cihanbeyli,38.6531,32.9244,-2.5,-0.88,22,0.88,2021-2026,Orta
+S1-KNY-10,Sarayönü - Gözlü Tarım İşletmesi,Sarayönü,38.2636,32.4047,-2.2,-0.80,14,0.87,2021-2026,Orta
+S1-KNY-11,Kulu - Kozanlı & Düden Gölü Alt Havzası,Kulu,39.0919,33.0794,-1.8,-0.65,8,0.91,2021-2026,Düşük
+S1-KNY-12,Kadınhanı - Atlantı Sulama Sahası,Kadınhanı,38.2397,32.2114,-1.6,-0.60,6,0.89,2021-2026,Düşük
